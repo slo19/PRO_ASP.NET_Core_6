@@ -27,6 +27,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Sc3ZwRm9ybS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/slo/workspace/dotnet/PRO_ASP.NET_Core_6/PartyInvites/Views/Home/Thanks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9UaGFua3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/slo/workspace/dotnet/PRO_ASP.NET_Core_6/PartyInvites/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
