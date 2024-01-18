@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oaM5EiZSMqlQRTcZLtjho2VQd4ZAfgUxnKvBrA865BwQfl8VvLfqsiv17SNbWXrb+gUWXE1nZz/5fDscVIV6XA==",
+  "dgSpecHash": "ejMJEvAAQQhjmTEabzawat+2KrFICXh69TLRg6kFPdfE6BjB7oJZJCGN+akp0/c0GaTlwLQvMNZkBRxvK+SGEw==",
   "success": true,
-  "projectFilePath": "/home/slo/workspace/dotnet/PRO_ASP.NET_Core_6/PartyInvites/PartyInvites.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/slo/workspace/PRO_ASP.NET_Core_6/PartyInvites/PartyInvites.csproj",
+  "expectedPackageFiles": [
+    "/home/slo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
