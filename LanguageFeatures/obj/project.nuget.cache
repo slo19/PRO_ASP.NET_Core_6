@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3QfPGGzPRLN0vhxcta3IhSs/zlFNRgWVhLTEG/Z2QQH4Kf4WGstZhbehG5d+NaeC1xApbkV7oGrDRPCvsQBSSw==",
+  "dgSpecHash": "GONcDuYKy5aKv38YDmCUTkT/FVtzmcHND3E7wMCm8wIbVdNCUnbi/TPA0cwwvjVAcBbGThKxL5qkueuHNpF50g==",
   "success": true,
   "projectFilePath": "/home/slo/workspace/PRO_ASP.NET_Core_6/LanguageFeatures/LanguageFeatures.csproj",
   "expectedPackageFiles": [
-    "/home/slo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+    "/home/slo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.26/microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
   ],
   "logs": []
 }
