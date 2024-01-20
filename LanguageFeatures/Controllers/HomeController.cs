@@ -6,14 +6,11 @@ namespace LanguageFeatures.Controllers {
 
         public ViewResult Index() {
             Product?[] products = Product.GetProducts();
-            Product? p = products[0];
-            string val;
-            if (p != null) {
-                val = p.Name;
-            } else {
-                val = "No value";
+            string? val = products[0]?.Name;
+            if (val != null) {
+                return View(new string[] { val });
             }
-            return View(new string[] { val });
+            return View(new string[] {"No value"});
         }
     }
 }
