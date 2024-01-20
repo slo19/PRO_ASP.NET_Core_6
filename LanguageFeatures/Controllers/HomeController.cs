@@ -6,7 +6,7 @@ namespace LanguageFeatures.Controllers {
 
         public ViewResult Index() {
             Product?[] products = Product.GetProducts();
-            return View(new string[] {products[0]?.Name ?? "No value"});
+            return View(new string[] {products[1]!.Name});
         }
     }
 }
