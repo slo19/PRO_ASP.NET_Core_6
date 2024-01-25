@@ -105,3 +105,5 @@
 /home/slo/workspace/PRO_ASP.NET_Core_6/Testing/SimpleApp.Tests/obj/Debug/net6.0/ref/SimpleApp.Tests.dll
 /home/slo/workspace/PRO_ASP.NET_Core_6/Testing/SimpleApp.Tests/obj/Debug/net6.0/SimpleApp.Tests.pdb
 /home/slo/workspace/PRO_ASP.NET_Core_6/Testing/SimpleApp.Tests/obj/Debug/net6.0/SimpleApp.Tests.genruntimeconfig.cache
+/home/slo/workspace/PRO_ASP.NET_Core_6/Testing/SimpleApp.Tests/bin/Debug/net6.0/Castle.Core.dll
+/home/slo/workspace/PRO_ASP.NET_Core_6/Testing/SimpleApp.Tests/bin/Debug/net6.0/Moq.dll
